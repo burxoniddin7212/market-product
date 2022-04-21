@@ -1,0 +1,39 @@
+body{
+  background-image: url(././img/laptop-computer-and-shopping-basket-on-wood-table-grocery-online-concept_293060-237.webp);
+}
+
+.container{
+  max-width: 1180px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+
+
+.inner{
+  display: flex;
+  justify-content: center;
+}
+
+.inner__in-but{
+  margin-top: 100px;
+}
+
+.product{
+  padding: 5px 20px;
+  background-color: aquamarine;
+}
+
+.addproduct{
+  padding: 5px;
+  background-color: aquamarine;
+}
+
+.resalt{
+  background-color: antiquewhite;
+  width: 200px;
+  height: 100%;
+  margin-left: 25px;
+}
